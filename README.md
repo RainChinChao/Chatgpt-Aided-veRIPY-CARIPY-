@@ -1,4 +1,4 @@
-All the chatting records can be found in chat.html.
+All the chatting records can be found in chat.html. Please download this chat.html file and double click it.
 
 The chat file contains the prompt for ChatGPT, procedures, original Python code of the example designs, and the generated VeriPy-accepted Python code.
 
